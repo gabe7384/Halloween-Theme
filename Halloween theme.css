@@ -18,3 +18,59 @@
     --background-tertiary: # !important;
     --background-accent: #ff6600 !important;
 }
+
+.circleIconButton-jET_ig svg path{
+  fill: #ff6600;
+}
+.circleIconButton-jET_ig.selected-ugP_am{
+  background-color: #ff6600;
+}
+.circleIconButton-jET_ig.selected-ugP_am svg path{
+  fill: white;
+}
+.wrapper-1BJsBx.selected-bZ3Lue > .childWrapper-anI2G9{
+  background-color:#ff6600;
+    color:white;
+}
+ .homeIcon-tEMBK1 {
+  background: center/contain no-repeat url('https://i.imgur.com/hzvhoRZ.png');
+  width: 30px;
+  height: 30px;
+  margin-top: -2px;
+}
+.homeIcon-tEMBK1 path {
+  fill: transparent;
+}
+
+.activity-11LB_k{
+   background-color: #ff6600;
+}
+.headerTop-3C2Zn0{
+   background-color: #ff6600;
+}
+.disabledButtonOverlay-2DA5FI{
+    color: white;
+}
+.role-2irmRk {
+  position: relative;
+  overflow: hidden;
+  border: none;
+  padding: 5px;
+}
+.roleCircle-3xAZ1j::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: inherit;
+  opacity: .2;
+  pointer-events: none;
+}
+.footer-1fjuF6 {
+  border-top: none;
+}
+.verified-1eC5dy:not(.disableColor-MwOAZf) > svg path {
+    fill: #ff6600
+}
