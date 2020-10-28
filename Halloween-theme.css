@@ -10,8 +10,6 @@
     --background-accent: #ff6600 !important;
     --text-link: #ff6600; !important;
     --channeltextarea-background: #222222;
-    .peopleColumn-29fq28 {
-  background-color: #333333
 }
 .circleIconButton-jET_ig svg path{
   fill: #ff6600;
@@ -70,4 +68,7 @@
 }.headerPlaying-j0WQBV, 
 .topSectionPlaying-1J5E4n {
    background-color: #ff6600;
+}
+    .peopleColumn-29fq28 {
+  background-color: #333333
 }
